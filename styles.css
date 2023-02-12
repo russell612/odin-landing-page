@@ -132,3 +132,33 @@ button {
     padding: 30px;
     color:#E5E7EB;
 }
+
+.blue-div {
+    border-radius: 20px;
+    background-color: #3882F6;
+    display: flex;
+    margin: 100px 200px;
+    padding: 50px 100px;
+    justify-content: space-around;
+    align-items: center;
+    text-align: start;
+    
+}
+
+.blue.primary {
+    color: #F9FAF8;
+    font-size: 24px;
+    margin:10px;
+    font-weight: 800;
+}
+
+.blue.secondary {
+    color: #F9FAF8;
+    font-size: 18px;
+    margin: 10px;
+}
+
+.blue-button {
+    font-size: 18px;
+    border: 2px solid #F9FAF8;
+}
